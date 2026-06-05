@@ -4,6 +4,6 @@ My daily LeetCode practice repository.
 
 ## Progress
 
-- Easy: 0
+- Easy: 1
 - Medium: 0
 - Hard: 0
